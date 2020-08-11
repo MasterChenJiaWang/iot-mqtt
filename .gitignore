@@ -38,3 +38,5 @@ hs_err_pid*
 iot-mqtt.iml
 src/main/resources/
 target/
+.idea/uiDesigner.xml
+.idea/vcs.xml
